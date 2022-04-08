@@ -1,5 +1,6 @@
 <h2>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Me chamo Rachel Tairum</h2>
-<h4 color="pink" >Sou carioca de nascença, mas atualmente moro no interior de São Paulo, sou biotecnologista e amante de tecnologia. Sou estudante da Trybe de Desenvolvimento Web, até então aprendi ferramentas Front-end como HTML5, CSS, JS, React, Redux, Context API e Hooks e me confesso que amei aprender essas tecnologias e já busco conhecer um pouco de Sass também! MAs muito mais ainda vem por ai, já que o objetivo final é ser full stack então acompanhem!</h4>
+
+<h4 align="left" >Sou carioca de nascença, mas atualmente moro no interior de São Paulo, sou biotecnologista e amante de tecnologia. Sou estudante da Trybe de Desenvolvimento Web, até então aprendi ferramentas Front-end como HTML5, CSS, JS, React, Redux, Context API e Hooks e me confesso que amei aprender essas tecnologias e já busco conhecer um pouco de Sass também! MAs muito mais ainda vem por ai, já que o objetivo final é ser full stack então acompanhem!</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rach-tairum&label=Profile%20views&color=0e75b6&style=flat" alt="rach-tairum" /> </p>
 
