@@ -2,11 +2,11 @@
 
 <img align="left" src="https://user-images.githubusercontent.com/93009735/163823580-417c2583-4564-4b44-87c4-c2eca009f76d.png" />
 
-<h4 align="justify" >Sou carioca de nascença, mas atualmente moro no interior de São Paulo, sou biotecnologista e amante de tecnologia. Sou estudante da Trybe de Desenvolvimento Web, até então aprendi ferramentas Front-end como HTML5, CSS, JS, React, Redux, Context API e Hooks e me confesso que amei aprender essas tecnologias e já busco conhecer um pouco de Sass também! MAs muito mais ainda vem por ai, já que o objetivo final é ser full stack então acompanhem!</h4>
+<h4 align="justify" >Sou carioca de nascença, mas atualmente moro no interior de São Paulo, sou biotecnologista e amante de tecnologia. Sou estudante da Trybe de Desenvolvimento Web, até então aprendi ferramentas Front-end como HTML5, CSS, JS, React, Redux, Context API e Hooks e me confesso que amei aprender essas tecnologias e já busco conhecer um pouco de Sass também! Mas muito mais ainda vem por ai, já que o objetivo final é ser full stack então acompanhem!</h4>
 
-- 🔭 Estou trabalhando em **um app de receitas chamado CookTuille**
+- 🔭 Estou trabalhando em **Em meu portfólio web**
 
-- 🌱 Estou aprendendo sobre: **Azure e Docker**
+- 🌱 Estou aprendendo sobre: **Azure, Docker e SQL**
 
 - 💬 Pode puxar assunto sobre **React, Context API, CSS**
 
