@@ -1,4 +1,4 @@
-<h2 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Me chamo Rachel Tairum</h2>
+<h2 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px">, Me chamo Rachel Tairum</h2>
 
 <img align="left" src="https://user-images.githubusercontent.com/93009735/163823580-417c2583-4564-4b44-87c4-c2eca009f76d.png" />
 
